@@ -1,0 +1,16 @@
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\bin\Debug\net8.0-windows\App1.exe
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\bin\Debug\net8.0-windows\App1.deps.json
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\bin\Debug\net8.0-windows\App1.runtimeconfig.json
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\bin\Debug\net8.0-windows\App1.dll
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\bin\Debug\net8.0-windows\App1.pdb
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.Form1.resources
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.csproj.GenerateResource.cache
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.AssemblyInfoInputs.cache
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.AssemblyInfo.cs
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.csproj.CoreCompileInputs.cache
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.dll
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\refint\App1.dll
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.pdb
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\App1.genruntimeconfig.cache
+C:\Users\pazjo\Documents\UNAH\14\diseno\App1\obj\Debug\net8.0-windows\ref\App1.dll
